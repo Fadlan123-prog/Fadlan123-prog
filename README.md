@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently work as Web Developer at PT. Gimsak Teknologi Indonesia<br>
+I'm currently work as Web Developer at PT. R.A.B Mulya Asri<br>
 
 
 # 💻 Tech Stack:
