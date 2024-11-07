@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently work as Web Developer at PT. R.A.B Mulya Asri<br>
+I'm currently work as Web Developer and Marketting in Acegard Indonesia
+<br>
 
 
 # 💻 Tech Stack:
