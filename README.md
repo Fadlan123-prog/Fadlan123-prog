@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently work as Web Developer and Marketting in Acegard Indonesia
+I'm currently work as Web Developer and Marketing in Acegard Indonesia
 <br>
 
 
